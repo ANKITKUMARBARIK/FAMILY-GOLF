@@ -1,2 +1,13 @@
 # FAMILY-GOLF
 SIDCUP FAMILY GOLF
+<br>
+AUTHOR - ANKIT KUMAR BARIK
+<br>
+ORIGINAL SITE "SIDCUP FAMILY GOLF" - https://sidcup-golf-family.netlify.app/
+<br>
+//FRONTEND SITE__
+<br>
+LANGUAGES USED :-
+* HTML
+* CSS
+* JAVASCRIPT
